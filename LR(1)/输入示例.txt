@@ -1,0 +1,9 @@
+S->[B
+A->int
+A->[B
+B->]
+B->C
+C->A]
+C->A,C
+
+[int,int]
